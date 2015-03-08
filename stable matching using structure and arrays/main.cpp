@@ -1,11 +1,12 @@
 
 
-/********
-Dated : 22/02/15
-This code Belongs to Jayanth Prakash Kulkarni
-CSE 4th Semester BTech,
-M.S.Ramaiah Institute of Technology,Bangalore.
-********/
+/****************************************************************************
+ Name        : stable matching using structure and arrays.c
+ Author      : Jayanth Prakash Kulkarni
+ Copyright   : Copyright Mr Jayanth Prakash Kulkarni © 2015
+ Description : Ansi C
+ ***************************************************************************/
+
 
 
 
